@@ -1,0 +1,14 @@
+﻿Build started 9/24/2014 2:52:37 PM.
+     1>Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\Homework_3\Homework_3\Homework_3.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\newfiremoy\documents\github\cpsc 131\homework_3\debug\homework_3.exe' is denied.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\Homework_3\Debug\Homework_3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\Homework_3\Debug\Homework_3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\Homework_3\Debug\Homework_3.lib" /MACHINE:X86 Debug\Main.obj
+     1>LINK : fatal error LNK1104: cannot open file 'C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\Homework_3\Debug\Homework_3.exe'
+     1>Done Building Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\Homework_3\Homework_3\Homework_3.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.54
