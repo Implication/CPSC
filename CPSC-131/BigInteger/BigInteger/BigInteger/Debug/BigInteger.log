@@ -1,0 +1,23 @@
+﻿Build started 10/2/2014 9:36:13 PM.
+     1>Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\BigInteger\BigInteger\BigInteger\BigInteger.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BigInteger.cpp
+         BigInteger.cpp
+     1>c:\users\newfiremoy\documents\github\cpsc 131\biginteger\biginteger\biginteger\biginteger.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\newfiremoy\documents\github\cpsc 131\biginteger\biginteger\biginteger\biginteger.cpp(21): warning C4297: 'BigInteger::BigInteger' : function assumed not to throw an exception but does
+                 __declspec(nothrow) or throw() was specified on the function
+     1>c:\users\newfiremoy\documents\github\cpsc 131\biginteger\biginteger\biginteger\biginteger.cpp(26): warning C4297: 'BigInteger::BigInteger' : function assumed not to throw an exception but does
+                 __declspec(nothrow) or throw() was specified on the function
+     1>c:\users\newfiremoy\documents\github\cpsc 131\biginteger\biginteger\biginteger\biginteger.cpp(123): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(937) : see declaration of 'itoa'
+     1>c:\users\newfiremoy\documents\github\cpsc 131\biginteger\biginteger\biginteger\biginteger.cpp(211): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(937) : see declaration of 'itoa'
+     1>c:\users\newfiremoy\documents\github\cpsc 131\biginteger\biginteger\biginteger\biginteger.cpp(170): warning C4101: 'c' : unreferenced local variable
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\BigInteger\BigInteger\Debug\BigInteger.lib" /NOLOGO Debug\BigInteger.obj
+         BigInteger.vcxproj -> C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\BigInteger\BigInteger\Debug\BigInteger.lib
+     1>Done Building Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\BigInteger\BigInteger\BigInteger\BigInteger.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02
