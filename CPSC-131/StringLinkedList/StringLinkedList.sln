@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringLinkedList", "StringLinkedList\StringLinkedList.vcxproj", "{1F82E250-A619-4DB3-BEED-9B9E3603AC48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringLinkedListTest", "StringLinkedListTest\StringLinkedListTest.vcxproj", "{8CA421EF-29D8-4FF6-B020-1A76293959E5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleTest", "GoogleTest\GoogleTest.vcxproj", "{54F926D9-248F-4858-BFE7-4851E39753FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F82E250-A619-4DB3-BEED-9B9E3603AC48}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F82E250-A619-4DB3-BEED-9B9E3603AC48}.Debug|Win32.Build.0 = Debug|Win32
+		{1F82E250-A619-4DB3-BEED-9B9E3603AC48}.Release|Win32.ActiveCfg = Release|Win32
+		{1F82E250-A619-4DB3-BEED-9B9E3603AC48}.Release|Win32.Build.0 = Release|Win32
+		{8CA421EF-29D8-4FF6-B020-1A76293959E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8CA421EF-29D8-4FF6-B020-1A76293959E5}.Debug|Win32.Build.0 = Debug|Win32
+		{8CA421EF-29D8-4FF6-B020-1A76293959E5}.Release|Win32.ActiveCfg = Release|Win32
+		{8CA421EF-29D8-4FF6-B020-1A76293959E5}.Release|Win32.Build.0 = Release|Win32
+		{54F926D9-248F-4858-BFE7-4851E39753FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54F926D9-248F-4858-BFE7-4851E39753FC}.Debug|Win32.Build.0 = Debug|Win32
+		{54F926D9-248F-4858-BFE7-4851E39753FC}.Release|Win32.ActiveCfg = Release|Win32
+		{54F926D9-248F-4858-BFE7-4851E39753FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿Build started 10/20/2014 2:34:26 PM.
+     1>Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\StringLinkedList\StringLinkedList.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt StringLinkedList.cpp
+         StringLinkedList.cpp
+     1>c:\users\newfiremoy\documents\github\cpsc 131\stringlinkedlist\stringlinkedlist\stringlinkedlist.cpp(257): warning C4715: 'StringLinkedList::removeAll' : not all control paths return a value
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\Debug\StringLinkedList.lib" /NOLOGO Debug\StringLinkedList.obj
+         StringLinkedList.vcxproj -> C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\Debug\StringLinkedList.lib
+     1>Done Building Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\StringLinkedList\StringLinkedList.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.49

@@ -1,0 +1,27 @@
+﻿Build started 10/20/2014 2:34:51 PM.
+     1>Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\StringLinkedListTest\StringLinkedListTest.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\Debug\StringLinkedListTest.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\Debug\StringLinkedListTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\Debug\StringLinkedListTest.lib" /MACHINE:X86 Debug\TestAddFront.obj
+         Debug\TestAddBack.obj
+         Debug\TestBack.obj
+         Debug\TestConstructor.obj
+         Debug\TestEmpty.obj
+         Debug\TestFront.obj
+         Debug\TestGet.obj
+         Debug\TestInsert.obj
+         Debug\TestRemove.obj
+         Debug\TestRemoveAll.obj
+         Debug\TestRemoveBack.obj
+         Debug\TestRemoveFront.obj
+         Debug\TestRemoveIndex.obj
+         Debug\TestReverse.obj
+         Debug\TestSize.obj
+         "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\Debug\GoogleTest.lib"
+         "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\Debug\StringLinkedList.lib"
+     1>TestAddFront.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         StringLinkedListTest.vcxproj -> C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\Debug\StringLinkedListTest.exe
+     1>Done Building Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC 131\StringLinkedList\StringLinkedListTest\StringLinkedListTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.75
