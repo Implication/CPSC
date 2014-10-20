@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GenericDLList", "GenericDLList\GenericDLList.vcxproj", "{D065A3E0-D7B5-452A-8E29-A38C5B8B2375}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleTest", "GoogleTest\GoogleTest.vcxproj", "{216736D5-3EB9-4EE7-967E-6A4EE58903F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GenericDLListTest", "GenericDLListTest\GenericDLListTest.vcxproj", "{A952C3EA-398F-4CB0-B6E8-31A69D71627D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D065A3E0-D7B5-452A-8E29-A38C5B8B2375}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D065A3E0-D7B5-452A-8E29-A38C5B8B2375}.Debug|Win32.Build.0 = Debug|Win32
+		{D065A3E0-D7B5-452A-8E29-A38C5B8B2375}.Release|Win32.ActiveCfg = Release|Win32
+		{D065A3E0-D7B5-452A-8E29-A38C5B8B2375}.Release|Win32.Build.0 = Release|Win32
+		{216736D5-3EB9-4EE7-967E-6A4EE58903F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{216736D5-3EB9-4EE7-967E-6A4EE58903F9}.Debug|Win32.Build.0 = Debug|Win32
+		{216736D5-3EB9-4EE7-967E-6A4EE58903F9}.Release|Win32.ActiveCfg = Release|Win32
+		{216736D5-3EB9-4EE7-967E-6A4EE58903F9}.Release|Win32.Build.0 = Release|Win32
+		{A952C3EA-398F-4CB0-B6E8-31A69D71627D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A952C3EA-398F-4CB0-B6E8-31A69D71627D}.Debug|Win32.Build.0 = Debug|Win32
+		{A952C3EA-398F-4CB0-B6E8-31A69D71627D}.Release|Win32.ActiveCfg = Release|Win32
+		{A952C3EA-398F-4CB0-B6E8-31A69D71627D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
