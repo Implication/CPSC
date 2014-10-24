@@ -31,13 +31,16 @@ void StringLinkedList::addFront(const std::string& e){
 	n++;
 }
 std::string StringLinkedList::toString() {
-	if (head == NULL)         return "";
+	if (head == NULL) 
+        return "";
+
 	std::string out = "";
 	StringNode *node = head;
 	while (node != NULL) {
 		out += node->elem + "->";
 		node = node->next;
-	}
+	}
+
 	return out.substr(0, out.size()-2);
 }
 
@@ -166,26 +169,6 @@ bool StringLinkedList::remove(const std::string& e) {
 		removeFront();
 		found = true;
 	}
-	else{
-		StringNode* node = head->next, *prev = head;
-		while (head->next != NULL){
-			while (node->next != NULL && node->elem != e){
-				prev = node;
-				node = node->next;
-			}
-			if (node->elem == e){
-				prev->next = node->next;
-				delete node;
-				found = true;
-				n--;
-				break;
-			}
-			else {
-				break;
-			}
-		}
-	}
-	return found;
 }
 void StringLinkedList::removeFront() {
 	if (empty()){ //Empty list

@@ -1,0 +1,43 @@
+﻿Build started 10/23/2014 11:30:38 AM.
+     1>Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\GenericDLListTest\GenericDLListTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\GTest\gtest-1.7.0" /I"C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\GTest\gtest-1.7.0\include" /I"C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\GenericDLList" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VARIADIC_MAX=10 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TestAddBack.cpp TestAddFront.cpp TestBack.cpp TestConstructor.cpp TestEmpty.cpp TestFront.cpp TestGet.cpp TestInsert.cpp TestRemove.cpp TestRemoveAll.cpp TestRemoveBack.cpp TestRemoveFront.cpp TestRemoveIndex.cpp TestSize.cpp
+         TestSize.cpp
+         TestRemoveIndex.cpp
+         TestRemoveFront.cpp
+         TestRemoveBack.cpp
+         TestRemoveAll.cpp
+         TestRemove.cpp
+         TestInsert.cpp
+         TestGet.cpp
+         TestFront.cpp
+         TestEmpty.cpp
+         TestConstructor.cpp
+         TestBack.cpp
+         TestAddFront.cpp
+         TestAddBack.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\Debug\GenericDLListTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\Debug\GenericDLListTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\Debug\GenericDLListTest.lib" /MACHINE:X86 Debug\TestAddBack.obj
+         Debug\TestAddFront.obj
+         Debug\TestBack.obj
+         Debug\TestConstructor.obj
+         Debug\TestEmpty.obj
+         Debug\TestFront.obj
+         Debug\TestGet.obj
+         Debug\TestInsert.obj
+         Debug\TestRemove.obj
+         Debug\TestRemoveAll.obj
+         Debug\TestRemoveBack.obj
+         Debug\TestRemoveFront.obj
+         Debug\TestRemoveIndex.obj
+         Debug\TestReverse.obj
+         Debug\TestSize.obj
+         "C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\Debug\GenericDLList.lib"
+         "C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\Debug\GoogleTest.lib"
+         GenericDLListTest.vcxproj -> C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\Debug\GenericDLListTest.exe
+     1>Done Building Project "C:\Users\Newfiremoy\Documents\GitHub\CPSC\CPSC-131\GenericDLList\GenericDLListTest\GenericDLListTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.21
